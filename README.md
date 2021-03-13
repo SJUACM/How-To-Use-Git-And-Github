@@ -3,6 +3,8 @@ A guide on how to utilize Git &amp; Github for all your software needs!
 
 # Contents
   - [What is Git?](#what-is-Git?)
+  - [What is Github?](#what-is-Github?)
+  - [How to Push Projects onto Github](#how-to-push-your-Projects-onto-Github)
   
 
 ## What is Git?
