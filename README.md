@@ -10,7 +10,7 @@ A guide on how to utilize Git &amp; Github for all your software needs!
   
      - [All the Git commands](#All-the-Git-commands-to-push-your-project-onto-Github)
   
-  - [How to Update existing Repositories with Git](#How-to-Update-existing-Repositories-with-Git
+  - [How to Update existing Repositories with Git](#How-to-Update-existing-Repositories-with-Git)
 
 
 ## What is Git?
