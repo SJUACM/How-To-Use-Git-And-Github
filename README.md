@@ -42,7 +42,12 @@ A guide on how to utilize Git &amp; Github for all your software needs!
 
 - Run `git commit -m "First commit"`, this is setting up all your files to be pushed onto Github. Note: In the future, you would want to add a description for each commit to indicate what you have changed for the project. Each commit should be detailed in explaining what changed from before. 
 
-- Then, run `git remote add origin URL`, where URL represents the specific URL for your project. This URL can be copied from the page of your repository, see highlighted in the screenshot below. So for me, I would run `git remote add origin https://github.com/faizancodes/test.git` 
+- Then, run `git remote add origin URL`, where URL represents the specific URL for your project. This URL can be copied from the page of your repository, see highlighted in the screenshot below. So for me, I would run `git remote add origin https://github.com/faizancodes/Test.git` 
 
-![image](https://user-images.githubusercontent.com/43652410/111018210-8dede800-8385-11eb-8c9a-214c5309430e.png)
+![image](https://user-images.githubusercontent.com/43652410/111018415-aa3e5480-8386-11eb-89c8-a5762919f458.png)
+
+- Lastly, run `git push -u origin master` to push your files onto github. If you have done this successfully, you should see your files uploaded on your github repository!
+
+ ### This is how your terminal should look if you have executed all the commands correctly: 
+![image](https://user-images.githubusercontent.com/43652410/111018455-d659d580-8386-11eb-91d4-4e77705f1e5c.png)
 
