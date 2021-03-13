@@ -62,7 +62,7 @@ A guide on how to utilize Git &amp; Github for all your software needs!
 
 - Lastly, run `git push -u origin master` to push your files onto github. If you have done this successfully, you should see your files uploaded on your github repository!
 
- ### This is how your terminal should look if you have executed all the commands correctly: 
+ ### This is how your command prompt or terminal should look if you have executed all the commands correctly: 
 ![image](https://user-images.githubusercontent.com/43652410/111018455-d659d580-8386-11eb-91d4-4e77705f1e5c.png)
 
   ## All the Git commands to push your project onto Github
@@ -93,7 +93,13 @@ A guide on how to utilize Git &amp; Github for all your software needs!
 
   - Run `git commit -m "Commit"`, this prepares all the files to be pushed. This is where you would specify what changes you made to the files within the quotes, you would replace "commit" with a description of what you modified. 
 
-  - Lastly, run `git push -u origin main`, which pushes all your files to github. 
+  - Lastly, run `git push -u origin master`, which pushes all your files to github. 
+
+  ### If you executed all the commands successfully, your command prompt or terminal should look like this:
+
+  ![image](https://user-images.githubusercontent.com/43652410/111020813-6eab8680-8396-11eb-9843-7fb71d085540.png)
+  
+  - You will then see the files in your github repository have been updated based on your modifications
 
   ## All the Git commands to update your Github repository
   
@@ -105,5 +111,5 @@ A guide on how to utilize Git &amp; Github for all your software needs!
   git add -A
   git status
   git commit -m "Commit"
-  git push -u origin main
+  git push -u origin master
   ```
