@@ -122,24 +122,31 @@ A guide on how to utilize Git &amp; Github for all your software needs!
 
   - There are two ways to download all the files from a github repository. 
   
-  - The first and preferred way is to go the repository you want to download the files from and click on the green button that says 'Code' 
+  - For the first and preferred way, make sure you have git downloaded from [here](https://git-scm.com/downloads) 
   
-  - You want to copy the URL in the menu that pops up (as shown below), for this repository, the URL is https://github.com/SJUSATA/How-To-Use-Git-And-Github.git. The URL will simply be the URL for the repo except with `.git` at the end
+    - Then, go the repository you want to download the files from and click on the green button that says 'Code' 
 
-  <img src="https://user-images.githubusercontent.com/43652410/111021589-83d6e400-839b-11eb-8877-867393b024dc.png" width="475" height="420">
+    - You want to copy the URL in the menu that pops up (as shown below), for this repository, the URL is https://github.com/SJUSATA/How-To-Use-Git-And-Github.git. The URL will simply be the URL for the repo except with `.git` at the end
 
-  - Then, you want to open your command prompt or terminal and run `git clone [URL]`, with URL being the URL you just copied. For example, for this repo you would run `git clone https://github.com/SJUSATA/How-To-Use-Git-And-Github.git`
+    <img src="https://user-images.githubusercontent.com/43652410/111021589-83d6e400-839b-11eb-8877-867393b024dc.png" width="475" height="440">
 
-  - If done correctly, your command prompt or terminal should look like this:
+    - Then, you want to open your command prompt or terminal and run `git clone [URL]`, with URL being the URL you just copied. For example, for this repo you would run `git clone https://github.com/SJUSATA/How-To-Use-Git-And-Github.git`
 
-  ![image](https://user-images.githubusercontent.com/43652410/111021473-87b63680-839a-11eb-865a-f81bcd8b9802.png)
+    - If done correctly, your command prompt or terminal should look like this:
 
-  - Now, all the files have been downloaded onto your computer within a folder named the same as the repository. You can access this folder by navigating to its specified location.
+    ![image](https://user-images.githubusercontent.com/43652410/111021473-87b63680-839a-11eb-865a-f81bcd8b9802.png)
 
-  - Since I cloned the repository while in my desktop directory, the folder is located within my desktop folder. 
+    - Now, all the files have been downloaded onto your computer within a folder named the same as the repository. You can access this folder by navigating to its specified location.
 
-  - The name of the repository I cloned is called `sonnet` so to navigate to its folder, you run `cd sonnet` and now you can execute certain files (check the repository's README for instructions on how to run the program)
+    - Since I cloned the repository while in my desktop directory, the folder is located within my desktop folder. 
 
+    - The name of the repository I cloned is called `sonnet` so to navigate to its folder, you run `cd sonnet` and now you can execute certain files (check the repository's README for instructions on how to run the program)
+
+    - You can also simply view the files in your file explorer / finder as well. For me, I would have to simply find the `sonnet` folder within my desktop folder and I can then view all the files inside 
+
+  - The second way to download files, which only recommended if git is not working for you is to simple click the 'Download ZIP' option after you click on the green `Code` button. 
+
+    - This downloads a zip file containing all the files within the repository, which you then have to unzip to access the files. 
   
 # View Github Repositories in VS Code
 
