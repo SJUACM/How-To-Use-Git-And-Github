@@ -144,7 +144,7 @@ A guide on how to utilize Git &amp; Github for all your software needs!
 
     - You can also simply view the files in your file explorer / finder as well. For me, I would have to simply find the `sonnet` folder within my desktop folder and I can then view all the files inside 
 
-  - The second way to download files, which only recommended if git is not working for you is to simple click the 'Download ZIP' option after you click on the green `Code` button. 
+  - The second way to download all the files from a repository, which only recommended if git is not working for you, is to simply click the 'Download ZIP' option after you click on the green 'Code' button which is shown above 
 
     - This downloads a zip file containing all the files within the repository, which you then have to unzip to access the files. 
   
