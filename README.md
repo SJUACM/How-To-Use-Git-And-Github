@@ -119,4 +119,4 @@ A guide on how to utilize Git &amp; Github for all your software needs!
 
   - With [Github1s](https://github.com/conwnet/github1s), you can load any Github repository in a VS Code environment, where you can then develop your project in the cloud
 
-  - To view any repo within VS code, simply add `1s` after `github` in the URL for the repo, for example, view this repo in VS Code: https://github**1s**.com/SJUSATA/How-To-Use-Git-And-Github
+  - To view any repo within VS code, simply add `1s` after `github` in the URL for the repo, for example, view this repo in VS Code: https://github1s.com/SJUSATA/How-To-Use-Git-And-Github
