@@ -158,12 +158,12 @@ A guide on how to utilize Git &amp; Github for all your software needs!
 
 # Bash Commands you Should Know
 
-`cd [Folder]`  Change directory to specified folder
+ -  `cd [Folder]`  Change directory to specified folder
 
-`cd ..`  Navigate to parent folder
+ - `cd ..`  Navigate to parent folder
 
-`pwd` Print working directory
+ - `pwd` Print working directory
 
-`mkdir [Folder Name]` Create a folder with a specified name 
+ - `mkdir [Folder Name]` Create a folder with a specified name 
 
-`ls`  List of all the files in your current directory
+ - `ls`  List of all the files in your current directory
