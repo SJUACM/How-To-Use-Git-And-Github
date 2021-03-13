@@ -145,7 +145,7 @@ A guide on how to utilize Git &amp; Github for all your software needs!
 
     - Since I cloned the repository while in my desktop directory, the folder is located within my desktop folder. 
 
-    - The name of the repository I cloned is called `sonnet` so to navigate to its folder, I would run `cd sonnet` and now you can execute certain files (check the repository's README file for instructions on how to run the program)
+    - The name of the repository I cloned is called `sonnet` so to navigate to its folder, I would run `cd sonnet` and now I can execute certain files (check the repository's README file for instructions on how to run the program)
 
     - You can also simply view the files in your file explorer / finder as well. For me, I would have to simply find the `sonnet` folder within my desktop folder and I can then view all the files inside 
 
