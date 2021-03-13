@@ -124,10 +124,9 @@ A guide on how to utilize Git &amp; Github for all your software needs!
   
   - The first and preferred way is to go the repository you want to download the files from and click on the green button that says 'Code' 
   
-  - ![image](https://user-images.githubusercontent.com/43652410/111021554-30649600-839b-11eb-9e46-f3c149abf8b6.png)
+  - You want to copy the URL in the menu that pops up (as shown below), for this repository, the URL is https://github.com/SJUSATA/How-To-Use-Git-And-Github.git. The URL will simply be the URL for the repo except with `.git` at the end
 
-
-  - You want to copy the URL in the menu that pops up, for this repository, the URL is https://github.com/SJUSATA/How-To-Use-Git-And-Github.git. The URL will simply be the URL for the repo except with `.git` at the end
+  ![image](https://user-images.githubusercontent.com/43652410/111021589-83d6e400-839b-11eb-8877-867393b024dc.png)
 
   - Then, you want to open your command prompt or terminal and run `git clone [URL]`, with URL being the URL you just copied. For example, for this repo you would run `git clone https://github.com/SJUSATA/How-To-Use-Git-And-Github.git`
 
@@ -140,7 +139,6 @@ A guide on how to utilize Git &amp; Github for all your software needs!
   - Since I cloned the repository while in my desktop directory, the folder is located within my desktop folder. 
 
   - The name of the repository I cloned is called `sonnet` so to navigate to its folder, you run `cd sonnet` and now you can execute certain files (check the repository's README for instructions on how to run the program)
-
 
   
 # View Github Repositories in VS Code
