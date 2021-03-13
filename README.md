@@ -3,10 +3,15 @@ A guide on how to utilize Git &amp; Github for all your software needs!
 
 # Contents
   - [What is Git?](#what-is-Git?)
-  - [What is Github?](#what-is-Github?)
-  - [How to Push Your Projects onto Github (Full Guide)](#how-to-push-your-Projects-onto-Github)
-     - [All Git commands](#All-Git-Commands)
   
+  - [What is Github?](#what-is-Github?)
+  
+  - [How to Push Your Projects onto Github (Full Guide)](#how-to-push-your-Projects-onto-Github)
+  
+     - [All the Git commands](#All-the-Git-commands-to-push-your-project-onto-Github:)
+  
+  - [How to Update existing Repositories with Git]
+
 
 ## What is Git?
 - Git is most widely used version control system that is used today. It is utilized for tracking changes in computer files and coordinating work on those files among multiple people. It is primarily used for source code management in software development, but it can be used to keep track of changes in any set of files.
@@ -58,8 +63,8 @@ A guide on how to utilize Git &amp; Github for all your software needs!
  ### This is how your terminal should look if you have executed all the commands correctly: 
 ![image](https://user-images.githubusercontent.com/43652410/111018455-d659d580-8386-11eb-91d4-4e77705f1e5c.png)
 
-  ## All Git Commands
-
+  ## All the Git commands to push your project onto Github:
+  
   **NOTE: Commands surrounded with brackets [] are specific to you**
 
   ```
@@ -71,3 +76,21 @@ A guide on how to utilize Git &amp; Github for all your software needs!
   git remote add origin [URL]
   git push -u origin master
   ```
+  
+# How to Update existing Repositories with Git
+
+  - Git makes it very simple and quick to update your repositories with just a few commands. This is especially useful if you made several changes to multiple files in your project and want to push them onto Github. Uploading / doing these changes manually without git would be very tedious and time consuming.
+
+  - First, navigate to your project folder's location by running `cd [Folder Location]`. If the folder is on your desktop, you would run `cd desktop`. 
+
+  - Next, run `git init`, this sets the files up to be ready for use 
+
+  - Then, run `git add -A`, this stages all the files for the next commit
+
+  - After that, run `git status`, this shows you all the changes to the files you made
+
+  - Run `git commit -m "Commit"`, this prepares all the files to be pushed. This is where you would specify what changes you made to the files within the quotes, you would replace "commit" with a description of what you modified. 
+
+  - Lastly, run `git push -u origin master`, which pushes all your files to github. 
+
+  
