@@ -10,7 +10,9 @@ A guide on how to utilize Git &amp; Github for all your software needs!
   
      - [All the Git commands](#All-the-Git-commands-to-push-your-project-onto-Github)
   
-  - [How to Update existing Repositories with Git](#How-to-Update-existing-Repositories-with-Git)
+  - [How to Update existing Repositories with Git (Full Guide)](#How-to-Update-existing-Repositories-with-Git)
+
+     - [All the Git commands](#All-the-Git-commands-to-update-your-Github-repository)
 
 
 ## What is Git?
@@ -81,7 +83,7 @@ A guide on how to utilize Git &amp; Github for all your software needs!
 
   - Git makes it very simple and quick to update your repositories with just a few commands. This is especially useful if you made several changes to multiple files in your project and want to push them onto Github. Uploading / doing these changes manually without git would be very tedious and time consuming.
 
-  - First, navigate to your project folder's location by running `cd [Folder Location]`. If the folder is on your desktop, you would run `cd desktop`. 
+  - First, navigate to your project folder's location by running `cd [Folder Location]`. If the folder is on your desktop, you would run `cd desktop` and then `cd [Project Name]`, with project name being the name of your project folder
 
   - Next, run `git init`, this sets the files up to be ready for use 
 
@@ -91,6 +93,17 @@ A guide on how to utilize Git &amp; Github for all your software needs!
 
   - Run `git commit -m "Commit"`, this prepares all the files to be pushed. This is where you would specify what changes you made to the files within the quotes, you would replace "commit" with a description of what you modified. 
 
-  - Lastly, run `git push -u origin master`, which pushes all your files to github. 
+  - Lastly, run `git push -u origin main`, which pushes all your files to github. 
 
+  ## All the Git commands to update your Github repository
   
+  **NOTE: Commands surrounded with brackets [] are specific to you**
+
+  ```
+  cd [Project Location]
+  git init
+  git add -A
+  git status
+  git commit -m "Commit"
+  git push -u origin main
+  ```
