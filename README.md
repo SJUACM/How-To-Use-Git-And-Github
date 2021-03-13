@@ -6,7 +6,7 @@ A guide on how to utilize Git &amp; Github for all your software needs!
   
   - [What is Github?](#what-is-Github?)
   
-  - [How to Push Your Projects onto Github (Full Guide)](#how-to-push-your-Projects-onto-Github)
+  - [How to Upload Your Projects onto Github (Full Guide)](#how-to-push-your-Projects-onto-Github)
   
      - [All the Git commands](#All-the-Git-commands-to-push-your-project-onto-Github)
   
@@ -39,7 +39,7 @@ A guide on how to utilize Git &amp; Github for all your software needs!
 
 - You can also **fork** repositories from one user’s account to another. This enables you to take a project that you don’t have write access to and modify it under your own account. If you make changes you’d like to share, you can send a notification called a **pull request** to the original owner. That user can then, with a click of a button, merge the changes found in your repo with the original repo.
 
-## How to Push your Projects onto Github
+## How to Upload your Projects onto Github
 
 - By uploading your projects onto Github, you can easily keep track of all the changes to your files and source code and have the ability to go back to a previous version of your project. It can serve as a backup for files since it is all hosted online and it is a great way to showcase your talents to other developers and contribute to an open-source community. 
 
