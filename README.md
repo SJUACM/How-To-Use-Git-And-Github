@@ -8,9 +8,9 @@ A guide on how to utilize Git &amp; Github for all your software needs!
   
   - [How to Push Your Projects onto Github (Full Guide)](#how-to-push-your-Projects-onto-Github)
   
-     - [All the Git commands](#All-the-Git-commands-to-push-your-project-onto-Github:)
+     - [All the Git commands](#All-the-Git-commands-to-push-your-project-onto-Github)
   
-  - [How to Update existing Repositories with Git]
+  - [How to Update existing Repositories with Git](#How-to-Update-existing-Repositories-with-Git
 
 
 ## What is Git?
@@ -63,7 +63,7 @@ A guide on how to utilize Git &amp; Github for all your software needs!
  ### This is how your terminal should look if you have executed all the commands correctly: 
 ![image](https://user-images.githubusercontent.com/43652410/111018455-d659d580-8386-11eb-91d4-4e77705f1e5c.png)
 
-  ## All the Git commands to push your project onto Github:
+  ## All the Git commands to push your project onto Github
   
   **NOTE: Commands surrounded with brackets [] are specific to you**
 
