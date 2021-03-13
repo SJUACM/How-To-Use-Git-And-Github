@@ -126,7 +126,7 @@ A guide on how to utilize Git &amp; Github for all your software needs!
   
   - You want to copy the URL in the menu that pops up (as shown below), for this repository, the URL is https://github.com/SJUSATA/How-To-Use-Git-And-Github.git. The URL will simply be the URL for the repo except with `.git` at the end
 
-  ![image](https://user-images.githubusercontent.com/43652410/111021589-83d6e400-839b-11eb-8877-867393b024dc.png)
+  <img src="https://user-images.githubusercontent.com/43652410/111021589-83d6e400-839b-11eb-8877-867393b024dc.png" width="475" height="400">
 
   - Then, you want to open your command prompt or terminal and run `git clone [URL]`, with URL being the URL you just copied. For example, for this repo you would run `git clone https://github.com/SJUSATA/How-To-Use-Git-And-Github.git`
 
