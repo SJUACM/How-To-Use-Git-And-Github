@@ -14,6 +14,8 @@ A guide on how to utilize Git &amp; Github for all your software needs!
 
      - [All the Git commands](#All-the-Git-commands-to-update-your-Github-repository)
 
+  - [How to View Github Repositories in VS Code](#View-Github-Repositories-in-VS-Code)
+
 
 ## What is Git?
 - Git is most widely used version control system that is used today. It is utilized for tracking changes in computer files and coordinating work on those files among multiple people. It is primarily used for source code management in software development, but it can be used to keep track of changes in any set of files.
@@ -113,3 +115,8 @@ A guide on how to utilize Git &amp; Github for all your software needs!
   git commit -m "Commit"
   git push -u origin master
   ```
+# View Github Repositories in VS Code
+
+  - With [Github1s](https://github.com/conwnet/github1s), you can load any Github repository in a VS Code environment, where you can then develop your project in the cloud
+
+  - To view any repo within VS code, simply add `1s` after `github` in the URL for the repo, for example, view this repo in VS Code: https://github1s.com/SJUSATA/How-To-Use-Git-And-Github
