@@ -4,7 +4,8 @@ A guide on how to utilize Git &amp; Github for all your software needs!
 # Contents
   - [What is Git?](#what-is-Git?)
   - [What is Github?](#what-is-Github?)
-  - [How to Push Projects onto Github](#how-to-push-your-Projects-onto-Github)
+  - [How to Push Your Projects onto Github (Full Guide)](#how-to-push-your-Projects-onto-Github)
+     - [All Git commands](#All-Git-Commands)
   
 
 ## What is Git?
@@ -57,16 +58,16 @@ A guide on how to utilize Git &amp; Github for all your software needs!
  ### This is how your terminal should look if you have executed all the commands correctly: 
 ![image](https://user-images.githubusercontent.com/43652410/111018455-d659d580-8386-11eb-91d4-4e77705f1e5c.png)
 
-## In short, these are all the commands to push your project onto Github:
+  ## All Git Commands
 
-**NOTE: Commands surrounded with brackets [] are specific to you**
+  **NOTE: Commands surrounded with brackets [] are specific to you**
 
-```
-cd [Project Location]
-git init
-git status
-git add -A
-git commit -m "First commit"
-git remote add origin [URL]
-git push -u origin master
-```
+  ```
+  cd [Project Location]
+  git init
+  git status
+  git add -A
+  git commit -m "First commit"
+  git remote add origin [URL]
+  git push -u origin master
+  ```
