@@ -40,7 +40,10 @@ A guide on how to utilize Git &amp; Github for all your software needs!
 - You can also **fork** repositories from one user’s account to another. This enables you to take a project that you don’t have write access to and modify it under your own account. If you make changes you’d like to share, you can send a notification called a **pull request** to the original owner. That user can then, with a click of a button, merge the changes found in your repo with the original repo.
 
 ## How to Push your Projects onto Github
-- First, make sure all the files from your project are in a separate folder in a specified location E.g. Desktop
+
+- By uploading your projects onto Github, you can easily keep track of all the changes to your files and source code and have the ability to go back to a previous version of your project. It can serve as a backup for files since it is all hosted online and it is a great way to showcase your talents to other developers and contribute to an open-source community. 
+
+- To get started, first make sure all the files from your project are in a separate folder in a specified location E.g. Desktop
 
 - Then, create a new repository on your github account. Name the project whatever you like and give it a good description
 
