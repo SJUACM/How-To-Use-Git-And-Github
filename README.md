@@ -14,6 +14,8 @@ A guide on how to utilize Git &amp; Github for all your software needs!
 
      - [All the Git commands](#All-the-Git-commands-to-update-your-Github-repository)
 
+  - [Downloading code from Github Repositories](#Downloading-code-from-Github-Repositories)
+
   - [How to View Github Repositories in VS Code](#View-Github-Repositories-in-VS-Code)
 
 
@@ -115,6 +117,32 @@ A guide on how to utilize Git &amp; Github for all your software needs!
   git commit -m "Commit"
   git push -u origin master
   ```
+  
+# Downloading code from Github Repositories
+
+  - There are two ways to download all the files from a github repository. 
+  
+  - The first and preferred way is to go the repository you want to download the files from and click on the green button that says 'Code' 
+  
+  - ![image](https://user-images.githubusercontent.com/43652410/111021554-30649600-839b-11eb-9e46-f3c149abf8b6.png)
+
+
+  - You want to copy the URL in the menu that pops up, for this repository, the URL is https://github.com/SJUSATA/How-To-Use-Git-And-Github.git. The URL will simply be the URL for the repo except with `.git` at the end
+
+  - Then, you want to open your command prompt or terminal and run `git clone [URL]`, with URL being the URL you just copied. For example, for this repo you would run `git clone https://github.com/SJUSATA/How-To-Use-Git-And-Github.git`
+
+  - If done correctly, your command prompt or terminal should look like this:
+
+  ![image](https://user-images.githubusercontent.com/43652410/111021473-87b63680-839a-11eb-865a-f81bcd8b9802.png)
+
+  - Now, all the files have been downloaded onto your computer within a folder named the same as the repository. You can access this folder by navigating to its specified location.
+
+  - Since I cloned the repository while in my desktop directory, the folder is located within my desktop folder. 
+
+  - The name of the repository I cloned is called `sonnet` so to navigate to its folder, you run `cd sonnet` and now you can execute certain files (check the repository's README for instructions on how to run the program)
+
+
+  
 # View Github Repositories in VS Code
 
   - With [Github1s](https://github.com/conwnet/github1s), you can load any Github repository in a VS Code environment, where you can then develop your project in the cloud
